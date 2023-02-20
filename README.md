@@ -8,13 +8,13 @@ Udacity Data Science Project 4 - Customer Segmentation Report for Arvato
 
 They are quite some libraries used across the project, all referenced in the requirements.txt file. For a step by step setup ou can follow those 4 steps:
 
-Create a virtual environment python -m venv .venv
+- Create a virtual environment python -m venv .venv
 
-Set Execution Policy Settings (optional only if next step leads to error) Set-ExecutionPolicy Unrestricted -Scope Process or Set-ExecutionPolicy RemoteSigned
+- Set Execution Policy Settings (optional only if next step leads to error) Set-ExecutionPolicy Unrestricted -Scope Process or Set-ExecutionPolicy RemoteSigned
 
-Activate venv ..venv\Scripts\activate
+- Activate venv ..venv\Scripts\activate
 
-Install required librairies pip install -r requirements.txt pip freeze > requirements.txt (to update requirements file with all installed packages)
+- Install required librairies pip install -r requirements.txt pip freeze > requirements.txt (to update requirements file with all installed packages)
 
 ## How to run the project
 
