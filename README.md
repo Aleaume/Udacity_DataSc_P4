@@ -39,3 +39,5 @@ I thank the data provider Arvato for the availibility of its dataset and share o
 Here are some help / resources used during this project (non-exhaustive):
 
 - https://datatofish.com/copy-file-python/
+- https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
+- https://stackabuse.com/implementing-pca-in-python-with-scikit-learn/
