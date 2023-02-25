@@ -30,7 +30,15 @@ Also for a simple read through an html version of the notebook is available : Re
 - `Udacity_MAILOUT_052018_TEST.csv`: Demographics data for individuals who were targets of a marketing campaign; 42 833 persons (rows) x 366 (columns).
 
 ## High Level Project Steps
+0. Get to Know the Data
+In this step, we get a first view of the dataset. Data Analysis, identification of types, missing values.
+Then we also tackle preprocessing steps (cleaning, imputing, normalization).
 
+1. Customer Segmentation Report
+You'll begin the project by using unsupervised learning methods to analyze attributes of established customers and the general population in order to create customer segments.
+
+2. Supervised Learning Model
+You'll have access to a third dataset with attributes from targets of a mail-order campaign. You'll use the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign.
 
 ## Licensing, Authors, Acknowledgements, etc.
 
