@@ -45,7 +45,14 @@ You'll have access to a third dataset with attributes from targets of a mail-ord
 I thank the data provider Arvato for the availibility of its dataset and share of project ideas.
 
 Here are some help / resources used during this project (non-exhaustive):
+### General Data Science
 
 - https://datatofish.com/copy-file-python/
+### PCA:
+
 - https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
 - https://stackabuse.com/implementing-pca-in-python-with-scikit-learn/
+- https://towardsdatascience.com/pca-clearly-explained-how-when-why-to-use-it-and-feature-importance-a-guide-in-python-7c274582c37e
+
+### Clustering:
+-https://realpython.com/k-means-clustering-python/
