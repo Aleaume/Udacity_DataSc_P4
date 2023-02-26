@@ -41,6 +41,15 @@ You'll begin the project by using unsupervised learning methods to analyze attri
 2. Supervised Learning Model
 You'll have access to a third dataset with attributes from targets of a mail-order campaign. You'll use the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign.
 
+## Results & Going further
+
+With the current model we reach an Area under the ROC Curve score of about ~68% with our fine tuned Logistic Regression.
+There is definitely room for improvement in the number of different classifiers models to try (GradientBoostingClassifier, CatBoostClassifier …).
+
+Also, some more attention could be brought to the data cleaning step in hope of getting a better result.
+
+PCA analysis could also in a next step be turned into profit for the Model training phase.
+
 ## Licensing, Authors, Acknowledgements, etc.
 
 I thank the data provider Arvato for the availibility of its dataset and share of project ideas.
