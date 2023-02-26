@@ -2,8 +2,10 @@
 Udacity Data Science Project 4 - Customer Segmentation Report for Arvato
 
 ## Objectives of Project
+This project is a complete Data Science Analysis of how the use of Data Wrangling, Clustering and Machine Learning can help companies identify potential future customers.
+The context is simple, a mail-order company wants to target efficiently potential future customers.
 
-
+The project main findings are also listed in an article here : https://medium.com/@aliaume64/a-guide-to-optimal-customer-targeting-using-data-science-f8956a5d319d
 ## Recommended initial Setup & Installations
 
 They are quite some libraries used across the project, all referenced in the requirements.txt file. For a step by step setup ou can follow those 4 steps:
@@ -18,9 +20,8 @@ They are quite some libraries used across the project, all referenced in the req
 
 ## How to run the project
 
-The whole conent of the project is held in a single notebook: Recommendations_with_IBM.ipynb.
+The whole conent of the project is held in a single notebook: Arvato Project Workbook.ipynb.
 
-Also for a simple read through an html version of the notebook is available : Recommendations_with_IBM.html
 
 ## Files Descriptions
 
@@ -48,6 +49,13 @@ Here are some help / resources used during this project (non-exhaustive):
 ### General Data Science
 
 - https://datatofish.com/copy-file-python/
+- https://pandas.pydata.org/docs/dev/getting_started/intro_tutorials/03_subset_data.html
+- https://stackoverflow.com/questions/48750762/how-to-use-dataframe-rename-to-rename-a-dataframe-index-not-inplace
+- https://pandas.pydata.org/docs/reference/api/pandas.MultiIndex.to_flat_index.html
+- https://pandas.pydata.org/docs/user_guide/merging.html
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.transpose.html
+- https://matplotlib.org/stable/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+
 ### PCA:
 
 - https://jakevdp.github.io/PythonDataScienceHandbook/05.09-principal-component-analysis.html
@@ -55,4 +63,17 @@ Here are some help / resources used during this project (non-exhaustive):
 - https://towardsdatascience.com/pca-clearly-explained-how-when-why-to-use-it-and-feature-importance-a-guide-in-python-7c274582c37e
 
 ### Clustering:
--https://realpython.com/k-means-clustering-python/
+- https://realpython.com/k-means-clustering-python/
+- https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html#sphx-glr-auto-examples-cluster-plot-kmeans-silhouette-analysis-py
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.silhouette_score.html
+
+
+### Modeling:
+- https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+- https://www.projectpro.io/recipes/optimize-hyper-parameters-of-logistic-regression-model-using-grid-search-in-python
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+- https://refactored.ai/microcourse/notebook?path=content%2F06-Classification_models_in_Machine_Learning%2F01-Classification_-_Logistic_Regression%2F02-Advanced_Logistic_Regression.ipynb#:~:text=The%20dual%20formulation%20is%20only,to%20specify%20the%20optimization%20algorithm.
+- https://www.projectpro.io/recipes/optimize-hyper-parameters-of-logistic-regression-model-using-grid-search-in-python
+- https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
